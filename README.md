@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @Fx143
-- 👀 I’m interested in ...Software Development, Web Development, AI, and Cybersecurity
-- 🌱 I’m currently learning ...C Programming, Algorithms, and Problem Solving
-- 💞️ I’m looking to collaborate on ...beginner-friendly open-source projects, university projects, and web-based applications
-- 📫 How to reach me ...hmfahadbinibrahim@gmail.com
-- 🎓 BSc in Computer Science and Engineering student at Daffodil International University
-- 💻 Passionate about coding, technology, and building real-world digital solutions
+## Hi there, I’m Fahad Bin Ibrahim 👋
+
+I am a Computer Science and Engineering student at Daffodil International University.  
+I am passionate about programming, problem solving, software development, and modern technology.
+
+- 👀 Interested in Software Development, Web Development, AI, and Cybersecurity
+- 🌱 Currently learning C Programming, Data Structures, Algorithms, and Problem Solving
+- 💞️ Open to collaborating on beginner-friendly projects and university-based software projects
+- 📫 Reach me at: hmfahadbinibrahim@gmail.com
+- 🔗 LinkedIn:https://www.linkedin.com/in/fahad-bin-ibrahim28072005/
 - 🌐 GitHub: @Fx143
-- 🔗 LinkedIn: https://www.linkedin.com/in/fahad-bin-ibrahim28072005/
+- 💻 Focused on improving my coding skills and building real-world projects
+
+
+
+
+
 <!---
 Fx143/Fx143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
